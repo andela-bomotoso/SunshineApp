@@ -15,5 +15,6 @@
     <string name="pref_temperature_metric" translatable = "false">metric</string>
     <string name="pref_temperature_imperial" translatable = "false">imperial</string>
     <string name="title_activity_maps">Map</string>
+    <string name="content_authority">app.com.example.grace.sunshine</string>
 
 </resources>
